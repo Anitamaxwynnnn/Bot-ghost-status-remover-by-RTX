@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Nopee Bot 🤖","Kite 2.0 🎧","Join Nopee Server 💨"];
+const statusMessages = ["Nopee","Kite 2.0 🎧","Join Nopee Server 💨","Tarz","Filow's Tambayan","ContestDaw","Pawsomepals"];
 
 
 let currentIndex = 0;
